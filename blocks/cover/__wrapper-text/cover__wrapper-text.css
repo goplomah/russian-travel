@@ -1,0 +1,19 @@
+.cover__wrapper-text {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    margin: 0;
+    gap: 32px;
+  }
+  
+  @media screen and (max-width: 320px) {
+    .cover__wrapper-text {
+      gap: 16px;
+    }
+  }

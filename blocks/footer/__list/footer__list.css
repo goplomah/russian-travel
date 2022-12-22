@@ -1,0 +1,3 @@
+.footer__list:not(:last-of-type) {
+    margin-right: 18px;
+  }
