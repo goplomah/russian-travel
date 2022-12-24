@@ -4,4 +4,6 @@
     line-height: 1;
     letter-spacing: 2px;
     margin: 0;
-  }
+    text-transform: uppercase;
+    color: #AAAAAA;;
+}
