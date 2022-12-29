@@ -4,7 +4,7 @@
     justify-content: end;
   }
 
-@media screen and (max-width: 370px) {
+@media screen and (max-width: 750px) {
   .place__website {
     margin: 0 16px 0;
   }

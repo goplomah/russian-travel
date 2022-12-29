@@ -3,22 +3,22 @@
     max-width: calc(100% - 296px);
   }
   
-  @media screen and (max-width: 1024px) {
+  @media screen and (max-width: 1200px) {
     .places {
       max-width: calc(100% - 96px);
     }
   }
   
-  @media screen and (max-width: 768px) {
+  @media screen and (max-width: 1010px) {
     .places {
       max-width: calc(100% - 48px);
       margin-top: 88px;
     }
   }
   
-  @media screen and (max-width: 370px) {
+  @media screen and (max-width: 750px) {
     .places {
-      margin-top: 64px;
       max-width: 100%;
+      margin-top: 64px;
     }
   }
