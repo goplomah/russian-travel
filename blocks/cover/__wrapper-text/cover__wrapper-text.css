@@ -1,6 +1,6 @@
 .cover__wrapper-text {
   position: relative; 
-  /* display: flex;
+  display: flex;
   flex-direction: column;
   position: absolute;
   top: 0;
@@ -8,11 +8,11 @@
   right: 0;
   bottom: 0;
   justify-content: center;
-  align-items: center; */
+  align-items: center;
 }
 
-@media screen and (max-width: 540px) {
+/* @media screen and (max-width: 540px) {
   .cover__wrapper-text {
     max-width: 288px;
   }
-}
+} */
